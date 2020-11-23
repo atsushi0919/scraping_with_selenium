@@ -60,7 +60,7 @@ MacBook-Pro-A:scraping_with_selenium atsushi$ cat logfile.txt
 ## 必要なものは？
 
  このプログラムを動かすために必要なものを下記に示します。
- (バージョンについては必ず合っていなくても、ある程度近ければ大丈夫だとは思います。)
+ (バージョンについては必ず合っていなくても、ある程度近ければ大丈夫だと思います。)
 
  * ruby 2.6.6
  * selenium-webdriver (3.142.7)
