@@ -95,6 +95,6 @@ webスクレイピングは権利を保証されいてる一方、悪用する�
 ライセンスを気にする様なレベルが高いことをしているわけので、特に言うことはありません。
 でも、もし誰かの役に立ったのであれば嬉しいので「イイネ」的なものとか批評を頂ければ嬉しいです。
 
-- ツイッター： https://mobile.twitter.com/atsushi_0919_
+- ツイッター： https://mobile.twitter.com/home?lang=ja
 - FB：　https://m.facebook.com/atsushi.hatakeyama?ref=bookmarks
 - Qiita： https://qiita.com/atsushi0919
