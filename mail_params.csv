@@ -1,0 +1,2 @@
+from,to,subject,address,port,domain,user_name,password
+from@example.com,to@example.com,mailtitle,smtp.gamil.com,587,domain.com,from@example.com,password
