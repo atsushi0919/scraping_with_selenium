@@ -41,8 +41,8 @@ def get_scraped_data(**params)
         puts "動作未定義のためスキップ"
       end
       if website
-        puts "完了"
         data = create_data(website.get_data)
+        puts "完了"
         data.each {|row| puts row}
         result << data
       end
