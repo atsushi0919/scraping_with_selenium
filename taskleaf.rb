@@ -14,7 +14,7 @@ class Taskleaf < Website
       break if displayed? @driver.find_elements(:tag_name, "tr").size
     }
     # trタグ以下の情報を集める
-    elements = driver.find_elements(:tag_name, "tr")
+    elements = @driver.find_elements(:tag_name, "tr")
     elements[1..-1].reverse.map { |element| [@name, element.text].join "," }
   end
 end
