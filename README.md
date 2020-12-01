@@ -62,6 +62,8 @@ MacBook-Pro-A:scraping_with_selenium atsushi$ cat logfile.txt
 
  * ruby 2.6.6
  * selenium-webdriver (3.142.7)
+ * Google Chrome
+ * chromedriver (Google Chromeのバージョンと合致したものが必要)
 
 ## インストール方法
 
