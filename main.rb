@@ -31,7 +31,7 @@ def get_scraped_data(**params)
     CSV.foreach(params[:file_path], headers: params[:headers]) do |website_info|
       website_info = symbolize_keys website_info
       id = website_info.shift[1].to_i
-      print "#{no}件目 #{website_info[:name]} からデータ取得中… "
+      print "#{id}件目 #{website_info[:name]} からデータ取得中… "
       case id
       when 1 then
         website = Taskleaf.new(website_info)
