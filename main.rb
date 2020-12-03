@@ -2,7 +2,7 @@ require "date"
 require "csv"
 
 require "./log"
-require "./mail"
+# require "./mail"  # メール機能を使う場合は、 mail_params.csv に入力後、この行を復活
 require "./taskleaf"
 require "./yahoojapan"
 
